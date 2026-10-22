@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# Simple wrapper to help users understand they need to install Gradle
+echo "Gradle wrapper script for Kotlin backend project"
+echo "================================================"
+echo ""
+echo "To build and run this project, you need to have Gradle installed."
+echo ""
+echo "Please install Gradle (version 8.5 or higher recommended) and then:"
+echo ""
+echo "1. Build the project:"
+echo "   ./gradlew build"
+echo ""
+echo "2. Run the application:"
+echo "   ./gradlew run"
+echo ""
+echo "3. Run tests:"
+echo "   ./gradlew test"
+echo ""
+echo "For more information on installing Gradle, visit:"
+echo "https://gradle.org/install/"
